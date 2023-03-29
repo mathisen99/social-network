@@ -1,0 +1,1 @@
+sqlite3 social_network.db < create.sql
